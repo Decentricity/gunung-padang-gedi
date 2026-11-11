@@ -1,5 +1,34 @@
 # Gunung Padang GEDI reconnaissance
 
+## Interactive evidence explorer
+
+Live page: **https://decentricity.github.io/gunungpadang/**
+
+The `web/` directory is a self-contained static Three.js viewer with two independent scenes:
+
+1. **Landscape:** a real ~2 km × 2 km Copernicus GLO-30 surface crop, native 66 × 66 posts, plus 117 GEDI footprint rings. Layers, date filters, opacity, vertical exaggeration, camera presets, and footprint inspection are interactive. Rings are draped onto the DSM only to show location; GEDI ellipsoidal heights are retained separately.
+2. **Underground hypothesis:** an original four-envelope illustration informed by the paper's Figure 14 and Table 1. Toggle units, move a cutaway, separate the layers, or change transparency. The model is explicitly schematic, not a digitized or georeferenced underground survey. The optional chamber wireframe is unconfirmed and positioned illustratively. No dated construction event is assigned to a mesh.
+
+Original processed GPR, ERT, and seismic figures can be inspected at larger size. Data downloads, source hashes, methods, and both the paper and retraction are accessible. Share links restore camera and layer state. The interface is responsive and retains figures and downloads when WebGL is unavailable.
+
+This is a tool for examining the hypothesis, **not a proof or disproof**. Surface lidar cannot image underground chambers. The currently available processed figures and public surface data cannot independently establish anthropogenic origin or construction age. Reanalysis needs raw geophysical arrays, survey coordinates, inversion settings, core logs, and archaeological sample contexts.
+
+### Build and check
+
+- Serve locally: `python -m http.server 8765 --directory web`, then open http://127.0.0.1:8765/.
+- Native terrain preparation: download the two source GeoTIFF URLs in `web/data/provenance.json`, install `requirements.txt`, and run `python prepare_viewer.py /path/to/S07.tif /path/to/S08.tif`.
+- Figure preparation: `python prepare_figures.py` uses Poppler and Pillow to reproduce the recorded crops from the archived open-access paper.
+- Interaction checks: `npm install`, then `npm test` while the local server runs. `CHROME_PATH`, `BASE_URL`, and `QA_DIR` can override defaults. Tests cover desktop/mobile rendering, toggles, filtering, cutaway, transparency, separation, raw-height inspection, share restoration, source dialogs, downloads, and the WebGL fallback.
+- Deployment: copy **only** `web/` into `gunungpadang/` on the current GitHub Pages branch. Fetch/rebase before pushing; never force-push or overwrite unrelated work on the shared site. The research repository is the source of this subtree.
+
+### Credits and publication status
+
+Surface derivative produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. Accessed 2026-11-11 from the [AWS open data registry](https://registry.opendata.aws/copernicus-dem/). These are DSM heights including vegetation and buildings, relative to EGM2008.
+
+The source paper is Natawidjaja et al. (2023), [doi:10.1002/arp.1912](https://doi.org/10.1002/arp.1912), CC BY 4.0. The PDF was archived on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Archaeological_Prospection_-_2023_-_Natawidjaja_-_Geo%E2%80%90archaeological_prospecting_of_Gunung_Padang_buried_prehistoric.pdf); SHA-256 `d6fcfd71deb9f3706180d026c863a6038154a5e9f8b8249c7c92398461d77751`. Figures 1, 9, 10, 12 and 14 are cropped; plotted data are not retouched. The paper was retracted on 18 March 2024 ([notice](https://doi.org/10.1002/arp.1932)); all authors disagree with the retraction. Both records remain visible in the explorer. Three.js r170 is vendored under its MIT license.
+
+---
+
 Initial coverage screen, 2026-11-11. **Feasible for sparse elevation transects near the site.** The retrieved data do not support a continuous bare-earth reconstruction or archaeological interpretation by themselves.
 
 ## Observations

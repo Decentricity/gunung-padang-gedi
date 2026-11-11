@@ -1,0 +1,1080 @@
+Received: 14 December 2022        Revised: 11 July 2023      Accepted: 15 September 2023
+DOI: 10.1002/arp.1912
+
+
+RESEARCH ARTICLE
+
+
+
+
+Geo-archaeological prospecting of Gunung Padang buried
+prehistoric pyramid in West Java, Indonesia
+
+Danny Hilman Natawidjaja 1                             |    Andang Bachtiar 2 |                    Bagus Endar B. Nurhandoko 3 |
+Ali Akbar 4 | Pon Purajatnika 2 | Mudrik R. Daryono 1 | Dadan D. Wardhana 1 |
+Andri S. Subandriyo 5 | Andi Krisyunianto 6 | Tagyuddin 7 | Budianto Ontowiryo 8 |
+Yusuf Maulana 2
+
+1
+ Research Center for Natural Disasters,
+National Research and Innovation Agency              Abstract
+(BRIN), Bandung, Indonesia
+                                                     The multidisciplinary study of Gunung Padang has revealed compelling evidence of a
+2
+ Independent Researcher, West Java,
+Indonesia
+                                                     complex and sophisticated megalithic site. Correlations between rock stratifications
+3
+ Physics Department, Bandung Institute of            observed through surface exposures, trenching and core logs, combined with GPR
+Technology (ITB), Bandung, West Java,                facies, ERT layers, and seismic tomograms, demonstrate the presence of multi-layer
+Indonesia
+4
+ Archaeology Department, University of
+                                                     constructions spanning approximately 20–30 m. Notably, a high-resistive anomaly in
+Indonesia, Depok City, West Java, Indonesia          electric resistivity tomography aligns with a low-velocity anomaly detected in seismic
+5
+ Geology Department, Bandung Institute of            tomography, indicating the existence of hidden cavities or chambers within the site.
+Technology (ITB), Bandung, West Java,
+Indonesia                                            Additionally, drilling operations revealed significant water loss, further supporting the
+6
+Geosains Delta Andalan (GDA), Bekasi City,           presence of underground spaces. Radiocarbon dating of organic soils from the struc-
+West Java, Indonesia
+                                                     tures uncovered multiple construction stages dating back thousands of years BCE,
+7
+ Geography Department, University of
+Indonesia, Depok City, West Java, Indonesia          with the initial phase dating to the Palaeolithic era. These findings offer valuable
+8
+ Civil Engineering Department, Bakrie                insights into the construction history of Gunung Padang, shedding light on the engi-
+University, Jakarta, Indonesia
+                                                     neering capabilities of ancient civilizations during the Palaeolithic era.
+Correspondence
+Danny Hilman Natawidjaja, Research Center            KEYWORDS
+for Natural Disasters, National Research and         core drilling, geophysical prospecting, megalith, pre-history, pyramid
+Innovation Agency (BRIN), Bandung 40135,
+Indonesia.
+Email: danny.hilman@gmail.com
+
+
+
+1    |    I N T RO DU CT I O N                                                      enlightenment’ in the local language, as it has been used for religious
+                                                                                    rituals throughout history (Akbar, 2013).
+Gunung Padang, located in Cianjur District, West Java Province,                          The National Archeological Institute conducted studies that led to
+Indonesia, has been the subject of comprehensive archaeological, geo-               the site's restoration in 1985, and in 1998, Gunung Padang was desig-
+logical, and geophysical studies. (Figure 1, Index Map 1). Early descrip-           nated a Provincial-level Cultural Heritage Site. Previous studies
+tions by Veerbek (1896) and Krom (1915) described it as an ancient                  regarded it as a significantly large megalithic site consisting of stone
+cemetery on top of the mound, but further investigations did not take               terraces (Bintarti, 1982; Ramadina, 2010; Sukendar, 1985), known as
+place until local reports prompted government attention in 1979                     punden berundak, which are common in Indonesia but not on the same
+(Bintarti, 1982). The name Gunung Padang translates to ‘mountain of                 scale as Gunung Padang. Further archaeological studies were carried
+
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited.
+© 2023 The Authors. Archaeological Prospection published by John Wiley & Sons Ltd.
+
+Archaeological Prospection. 2023;1–25.                                                                                 wileyonlinelibrary.com/journal/arp     1
+                                                                                                                                                        10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2                                                                                                                                NATAWIDJAJA ET AL.
+
+
+
+out until 2005, including limited excavation pits that reached less than    located within Mio-Pliocene volcanic rocks, comprising pyroclastic,
+a meter deep (Tim-Peneliti, 2003). While lacking radiocarbon dating, it     epiclastic, basaltic-andesite lava and intrusive rocks. To the north, the
+was assumed that Gunung Padang was a prehistoric site built                 mountainous terrain consists primarily of Quaternary volcanic prod-
+between several hundred and a couple of thousand BCE, following             ucts from active volcanoes. The presence of the Cimandiri Active
+regional megalithic cultures in Asia (Kim, 1982).                           Fault Zone near the site poses earthquake hazards to the region
+    Situated in the southern mountainous ranges of West Java, near          (Irsyam et al., 2020; Marliyani et al., 2016).
+the headwater of the Cimandiri River, Gunung Padang is surrounded               Indonesia's tropical climate, characterized by intense weathering
+by other megalithic sites such as Kujang 1 and 2, Cengkuk, Arcadomas        and sedimentation processes, combined with dense vegetation, has
+and Lebak Cibedug step pyramid (Figure 1, Index Map 2). The site is         led to the burial and concealment of ancient cultural remains.
+
+
+
+
+F I G U R E 1 (a) Aerial view of Gunung Padang taken from a helicopter. (b) Topography and site map generated from a detailed geodetic survey.
+(c) Geology map of the Gunung Padang region (Sudjatmiko, 1972). (d) Orthophoto map obtained from a drone survey conducted in 2014,
+indicating the locations of trenching sites (white rectangles) and core-drilling sites (red dots). T1, Terrace 1; T2, Terrace 2; T3, Terrace 3; T4,
+Terrace 4; T5, Terrace 5. [Colour figure can be viewed at wileyonlinelibrary.com]
+                                                                                                                                                        10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                 3
+
+
+
+Furthermore, Indonesia's archipelago has undergone drastic climate         Additionally, we employed a small drone to perform 3D aerial surveys
+changes over the past 15 000 years, resulting in rising sea levels and     (Figure 1d, Figure SA.2–6). The drone-captured images were used to
+submerging ancient land known as Sundaland (Sathiamurthy &                 develop a high-resolution Digital Elevation Model (DEM), a geographi-
+Voris, 2006; Voris, 2000). These dynamic natural processes have            cally referenced mosaic orthophoto and a 3D image of the Gunung
+caused the disappearance of numerous ancient heritage sites in for-        Padang mound.
+ests, underwater and buried underground. Traditional archaeological
+methods face significant challenges in their discovery. This study
+exemplifies how a comprehensive approach integrating archaeologi-          2.2    |    Geo-archaeological trenching
+cal, geological and geophysical methods can uncover hidden and vast
+ancient structures.                                                        The geo-archaeological trenching activities at Gunung Padang aimed
+      The field survey of Gunung Padang began in October 2011 and          to understand better the vertical profile and lateral extensions of the
+continued until October 2014, comprising multiple seasons. The sur-        buried structures near the surface. The selection of trenching sites
+vey encompassed detailed mapping, geological and archaeological            was based on the interpretations derived from the preceding geo-
+observations, shallow geophysical surveys, excavation trenches and         physical surveys. The trenching operations commenced mid-2012,
+core drillings. It is one of the most extensive and integrated archaeo-    with most work conducted in August–September 2014. Trench sizes
+logical, geological and geophysical studies conducted on a buried          varied, ranging from 1  2 to 3  9 m on the surface, and depths
+ancient structure. The studies indicated that Gunung Padang is not         reached between 2 and 4 m, except for Echo1, which was excavated
+merely a simple prehistoric stone terrace (e.g. Bintarti, 1982;            to 11 m. The trenches were manually dug using various tools, includ-
+Yondri, 2017) but a complex underground construction with substan-         ing spades and hoes. The trenches were carefully backfilled upon
+tial chambers and cavities. Carbon dating analysis indicates that it may   completing the excavations, and measures were taken to prevent ero-
+have been constructed during the last glacial period in the Palaeolithic   sion by replanting the surfaces.
+era, with subsequent modifications during the Holocene or
+Neolithic era.
+      The early publication of these findings in mass media outlets,       2.3    |    Core drilling
+along with public lectures and conferences (Natawidjaja et al., 2016,
+2018), has garnered significant attention and popularity for Gunung        The core drilling activities were undertaken to explore the deeper rock
+Padang nationally and globally. Consequently, the Ministry of Educa-       layers. For this purpose, we employed Jacro 100 drilling equipment
+tion and Culture issued Decree in 2014, elevating the site's status        equipped with a diamond bit NQ measuring 2 in. in diameter and 5 ft
+from provincial to national heritage. The strength and significance of     core barrels (Figure SC.7). The collected rock cores were subjected to
+this study lie in the comprehensive and integrated use of multiple         petrological and petrographic analysis to gain insights into their com-
+techniques to explore the buried and expansive ancient structures at       position and characteristics. Additionally, the drilling operations
+Gunung Padang.                                                             allowed us to delineate the interface between the rock formations
+                                                                           and groundwater, providing valuable information about the hydrologi-
+                                                                           cal aspects of the site. Organic soil samples were carefully extracted
+2     |       METHODS                                                      from the spaces between rock fragments, which were subsequently
+                                                                           used for carbon dating analysis. In specifically targeted locations, dril-
+2.1       |    Integrated multi-method studies                             ling activities aimed to explore suspected large underground cavities.
+                                                                           These drilling operations were executed carefully and cautiously to
+The integrated surveys at Gunung Padang were conducted for                 ensure that no megalithic stones exposed on the surface were dis-
+3 years, from November 2011 to October 2014 (Natawidjaja, 2015,            turbed or removed. Suitable open spaces were selected for drilling,
+2016, 2017). These surveys involved a combination of detailed land-        and customized wooden constructions were utilized as foundations
+scape and surface mapping, core drillings, trenching and integrated        for the drilling equipment (Figure SC.7c).
+geophysical techniques involving two-dimensional (2D) and three-
+dimensional (3D) electrical resistivity tomography (ERT), ground-
+penetrating radar (GPR) and seismic tomography (ST). The use of            2.4    |    Radiocarbon analysis
+multiple methods allowed for cross-validation and enhanced inter-
+pretation of subsurface structures.                                        This study represents the first comprehensive analysis of 14C dating
+      We utilized an IFSAR-5m Digital Surface Model (DSM) and Digital      at the Gunung Padang site. Organic soil samples obtained from the
+Terrain Model (DTM) to analyse the regional topography. These data         drill cores and the trenching walls were meticulously selected for 14C
+provided a high-resolution landscape representation, enabling us to        dating analysis. These organic samples were believed to contain traces
+identify local features, including exposed megalithic stones and exist-    of bio-organic activities during and after the construction phases.
+ing infrastructure. To achieve more precise mapping of these features,     However, it is essential to consider potential sources of contamina-
+we conducted a geodetic survey using total stations (Figure 1b).           tion, such as older carbon sources or recent bio-organism activities,
+                                                                                                                                                         10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+4                                                                                                                                  NATAWIDJAJA ET AL.
+
+
+
+which could impact the dating results. Notably, modern vegetation                   During the survey, we experimented with different antennas and
+and roots were identified as the most common sources of contamina-            frequencies, primarily focusing on the MLF antenna that was deemed
+tion, leading to significantly younger age determinations (Natawidjaja        most suitable for our objectives. The MLF antenna was employed at
+et al., 2017). Great care was taken during sample collection to avoid         15, 40 and 80 MHz frequencies. However, it was found that the
+modern vegetation.                                                            40 MHz frequency provided the optimal balance between resolution
+      Additionally, any remaining carbons derived from modern vegeta-         and depth penetration for our study, reaching depths of up to 30 m.
+tion were separated and thoroughly cleaned during laboratory proces-          The 15 MHz frequency did not achieve significant depth penetration
+sing. Most samples were analysed using the accelerator mass                   on the site while exhibiting lower resolution. Additionally, using the
+spectrometry (AMS) dating method at the BETA Analytic Lab in                  80 MHz frequency did not yield improved imaging results, leading us
+Florida, USA. Some samples were analysed using the conventional               to solely present the outcomes obtained with the MLF 40-MHz
+carbon dating method at the National Nuclear Energy Agency                    antenna.
+(BATAN). The OxCal program was utilized to calibrate the results of                 We employed the common-offset measurement technique to
+the conventional 14C ages and to conduct a robust chronological               acquire data along the survey lines, incrementally capturing point data
+analysis (Bronk Ramsey, 2016).                                                at intervals of 50–100 cm. These acquired data points were then pro-
+                                                                              cessed using RADAN software that comes with the GSSI units. The
+                                                                              processing steps included time-zero shifts, topographic correction,
+2.5       |    Shallow geophysical prospecting                                noise filtering, background removal, deconvolution, migration and
+                                                                              depth conversion utilizing the Common Depth Point (CDP) method to
+The application of high-resolution shallow geophysical methods in             estimate the radar wave velocity through the subsurface layers. The
+archaeological studies has grown significantly over the past two              CDP measurement provided a radar wave velocity of 1.08  109 m/s,
+decades (e.g. Tsokas et al., 1994). However, the extensive use of             equivalent to a dielectric constant of 8.09, which was subsequently
+geophysical prospecting to investigate buried and expansive                   utilized to convert the travel time of radar waves into depth
+ancient       structures,   particularly   pyramids,   remains   uncommon     measurements.
+(e.g. Papadopoulos et al., 2010; Tejero-Andrade et al., 2018).                      We employed various colour spectrums in the radargrams to visu-
+Geophysical surveys that combine extensive excavations and core               alize and interpret the processed data. A neutral conventional grey
+drillings to validate and refine interpretations of the imaged geophysi-      colour scheme was utilized to display contrasting degrees, textures
+cal features are relatively rare (e.g. Shi et al., 2020). Most archaeologi-   and patterns, while a red-blue colour spectrum was employed to high-
+cal prospecting efforts have focused on uncovering smaller buried             light the positive and negative polarities of radar waves. Bright spots
+structures or features ranging from tens of centimetres to several            observed in the radargrams corresponded to high-amplitude reflec-
+meters in scale, such as tombs (e.g. Sarris et al., 2007).                    tions from subsurface materials with a higher dielectric constant,
+      The research conducted at Gunung Padang breaks new ground               whereas dark spots or negative polarity reflections indicated materials
+by employing multi-high-resolution geophysical methods on a large             with a lower dielectric constant. GPR facies analysis was conducted to
+scale, addressing the challenges associated with investigating vast           identify radar stratifications, and the results were subsequently com-
+ancient structures. By integrating these methods with extensive exca-         pared to the borehole, ERT and ST data for comprehensive analysis
+vations and core drillings, the study offers a unique and comprehen-          and interpretation.
+sive approach to exploring the hidden complexities of the site. This
+pioneering methodology provides valuable insights into the nature
+and construction of the structures, surpassing the limitations of tradi-      2.7      |   ERT survey
+tional archaeological prospecting techniques focused on more minor
+features.                                                                     ERT data played a crucial role in this study, offering valuable insights
+                                                                              into the subsurface structures (Figure 8a, Figure SF). ERT surveys pro-
+                                                                              vide flexibility in terms of target resolution, coverage and desired
+2.6       |    GPR survey                                                     depth of penetration by adjusting the electrode spacing. This method
+                                                                              can be conducted in various field conditions, including high slopes and
+For the GPR survey, we utilized SIR-2000 and SIR-3000 GSSI units              areas with dense vegetation. For data acquisition, we utilized the
+equipped with various antennas, including unshielded multiple low             SuperSting R8 multichannel resistivity system from Advanced Geosci-
+frequency (MLF) and shielded 100- and 270-MHz antennas (https://              ence Inc (https://www.agiusa.com/) with two sets of 56 and 112 elec-
+www.geophysical.com). However, the field conditions posed limita-             trode cables configured at different spacing intervals, predominantly
+tions on the GPR survey. It was not feasible to conduct high-slope            employing a dipole–dipole configuration.
+survey lines due to issues with topographic correction, and heavily                 The electrode spacing directly affects the resolution and penetra-
+vegetated areas required path clearance for effective surveying.              tion depth of the ERT data. Wider electrode spacings yield greater
+Therefore, this study primarily focused on using GPR on flat, clear           depth penetration but sacrifice spatial resolution. The penetration
+ground atop megalithic terraces.                                              depth is approximately 10 times the spacing for the 56-electrode
+                                                                                                                                                       10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                5
+
+
+
+cable and 15 times the spacing for the 112-electrode cable—more-            approximation (Nurhandoko, 2000, 2016; Nurhandoko et al., 1999,
+over, the penetration depth increases when surveying over convex            2016; Nurhandoko & Ashida, 1998; Vasco et al., 1995). The Fresnel
+surfaces. The spatial resolution is typically half the electrode spacing,   wavepath is thin at higher frequencies and wider at lower frequencies.
+meaning that with a 5-m spacing, the resolution is around 2.5 m. To         To achieve stable inversion, we performed the inversion procedure
+accurately measure the topographic profiles along the survey lines,         using a wide wavepath and gradually transitioned to a thinner wave-
+we employed the ZIPLevel Pro-2000 High Precision Altimeter, known           path by sweeping the frequency component. This approach ensured
+for its sub-millimetre accuracy (https://www.ziplevel.com/). Data pro-      stable tomography inversion, and the smoothed procedure based on
+cessing was conducted using the EarthImager 2D and 3D software              the wavepath frequency was adopted in the inversion process. By
+included with the SuperSting system.                                        incorporating a broad spectrum of frequencies for inverse modelling,
+      ERT surveys were performed with various electrode spacing con-        multiple alternative tomography images with varying resolutions were
+figurations for 2D, 2.5D grid and 3D surveys (Figure 8a, Figures SF.3–      generated (Figures SG.3–SG.5). Comparing these multi-images
+SF.6). By employing different electrode spacings, we obtained ERT           improved the visualization and interpretation of the subsurface struc-
+images with a wide range of resolutions and penetration depths. This        tures. For further details on the method and results, refer to
+allowed us to investigate shallow and deeper objects in detail and          Figure SG.
+compare variations in models to enhance interpretations. The primary
+ERT data for this study were obtained from a 2-m spacing electrode
+survey conducted along NS (North–South) and EW (East–West) paral-           3    |   RE SU LT S
+lel lines with 5- to 10-m spacing between the lines, covering the upper
+part of the mound. Consequently, a 2.5D spatial analysis was per-           3.1 | Observations of megalithic exposures and the
+formed (Figure SF.14). Additionally, gridded 1-m spacing electrode          surroundings
+lines were utilized (Figure 8a, Figure SF.15). To image the entire
+mound from top to base, we employed larger electrode spacings of            The landscape of Gunung Padang reveals an isolated and elongated
+3, 4, 5 and 8 m (Figures SF.7 and SF.8). Furthermore, a 3D survey was       hill, oriented south–north, with symmetrical and flat east and west
+conducted on the megalith terraces using a 5-m spacing grid spread          flanks. The hilltop is characterized by a flat-truncated surface adorned
+across four parallel-line cables, covering an area of approximately         with stone terraces embellished with standing stones, known as men-
+15  135 m to explore suspected large cavities.                             hirs. This majestic amphitheatre-like structure faces northward, offer-
+                                                                            ing a captivating view of the Gede-Pangrango active volcano complex
+                                                                            (Figure 1, Index Map 2; Figure SA.1). Water streams encircle the
+2.8      |   ST survey                                                      perimeter of the mound that eventually merge with the Cimanggu
+                                                                            River, the principal branch of the Cimandiri River. The surrounding
+ST is not commonly employed in archaeological prospecting but offers        higher mountainous ridges exhibit advanced erosions, resulting in
+several advantages over conventional seismic refraction methods             rough terrains with streams eroding the slopes. This terrain landscape,
+(e.g. Forte & Pipan, 2008). One key advantage is the superior velocity      characterized by intense erosion, is typical of the region's Tertiary
+information obtained from tomography, surpassing the layering               rock terrain (Soeria-Atmadja et al., 1994). In contrast, the upper half
+models used in conventional seismic refraction. Additionally, the het-      of Gunung Padang displays a remarkably smooth surface, indicating a
+erogeneities and complexities of the subsurface structures at Gunung        lesser degree of erosion. This observation provides an initial clue that
+Padang may limit the applicability of seismic reflection methods.           Gunung Padang is a more recent feature than the surrounding
+      In this study, we conducted three ST lines: Line-1 running north–     landscapes.
+south, crossing T1–5 and the entire mound; Line-2 and Line-3 running            The Gunung Padang megalithic site consists of stone terraces cas-
+east–west, crossing ramp T1–2 and T-5, respectively (Figure 12a).           cading northward, occupying the elongated flat top of the hill, which
+Data acquisition was performed using a 2  24 channel seismograph           rises approximately 200 m above the main river in the north or around
+set with a spacing of 5 m. Firecrackers or sledgehammers were uti-          100 m above the entrance gate in the parking lot where a stone stair-
+lized as seismic sources, positioned in the middle of each receiver         way leads to the top (Figure 1a). The site comprises five substantial
+(geophones), and fired at 5-m intervals. Data were continuously             rectangular stone terraces, named Terraces 1, 2, 3, 4 and 5 (referred
+downloaded to the hard disk of a portable PC while repositioning the        to as T1, T2, T3, T4 and T5) from north to south (Figure 1b,c). These
+shot point. This configuration allowed for high-resolution ST with          megalithic stones primarily consist of naturally formed basaltic-
+deep penetration. The topography of Gunung Padang, resembling an            andesite columnar-joint rocks, resulting from the cooling of hot igne-
+inverted boat, facilitated line configurations that covered the targets     ous liquid under specific temperature and pressure conditions. Terrace
+at a sufficient aperture angle (Figure SG1A), significantly enhancing       T1 spans 30  40 m (width x length) and is separated from T2 by a
+the capability of ST to reveal shallow and deep targets, including large    9-m high ramp. T2 measures 20  25 m, T3 is 18  18 m, T4 is
+cavities.                                                                   17  17 m, and T5 is 15  18 m. The terraces are divided by 50-cm
+      We employed the Fresnel wavepath tomography method, which             steps between T2 and T3 and T3 and T4, while a 1-m step separates
+combines ray path and phase components based on the Rytov                   T4 and T5. The exteriors and interiors of the terraces are adorned
+                                                                                                                                                     10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+6                                                                                                                             NATAWIDJAJA ET AL.
+
+
+
+with alignments of rock walls and rows of standing columnar rocks,        meaning ‘one family’ in the local language of West Java, which is sig-
+forming intricate spatial patterns and geometries (Figure 2). In 2014,    nificant considering Gunung Padang's location. Some columnar rock
+the vegetation on the east slope was cleared to reveal these stone ter-   arrangements observed in Gunung Padang resemble those found in
+races (Figure 1d, Figure SA.2); however, they have since become           Nan Madol (Figure 2c).
+heavily vegetated once again (Figure SA.3–4). Pyroclastic and epiclas-
+tic rocks predominantly occupy the lower part of the hill.
+    A comparative example of stone terraces is Lebak Cibedug, a           3.1.1     |   Multi-phase construction and hidden layers
+stepped pyramid close to Gunung Padang, which shares a similar size
+and antiquity but has not been extensively studied (Takashi, 2014).       The visual observations at Gunung Padang reveal a complex construc-
+Another example is Candi Kethek in Central Java (Purwanto                 tion history, with evidence of multiple phases and diverse architec-
+et al., 2017). Stone terraces constructions can be found worldwide,       tural styles. At the ground surface, known as Unit 1 (#1), the
+such as Machu Picchu in Peru, built by the Inca civilization              prominent megalithic stones exhibit a variety of arrangement tech-
+(Bingham, 1930). Nan Madol, a megalithic complex on Pohnpei Island,       niques positioned on soils containing numerous andesite rock frag-
+Micronesia, utilizes similar columnar-joint rocks (McCoy et al., 2016;    ments (Akbar, 2013). Unit 1 comprises columnar rock arrangements of
+McCoy & Athens, 2012). Interestingly, based on oral traditions, the       standing rocks and ramps, defining the spatial geometry and terrace
+Saudeleur Dynasty, the newcomers to Pohnpei Island, is believed to        spaces (Figure 2c). Notably, interwoven columnar rocks form ascend-
+have constructed Nan Madol (McCoy et al., 2016). The pronunciation        ing stone steps from the lower levels, while tall rock walls enclose T1
+of ‘saudeleur’ is remarkably similar to the Sundanese word ‘sadulur’,     (Figure 2e). Intriguingly, this study unveils that Unit 1 stone terraces
+
+
+
+
+                                                                                                      F I G U R E 2 Surface exposures of
+                                                                                                      megalithic stones illustrating two units of
+                                                                                                      construction, Unit 1 (#1) and Unit 2 (#2).
+                                                                                                      (a) South-facing view of T1 landscape,
+                                                                                                      revealing a stone floor and standing
+                                                                                                      columnar rocks of #1, as well as the
+                                                                                                      exposed #2 ramp and altar. (b) North-
+                                                                                                      facing view from T2 onto T1. (c) Columnar
+                                                                                                      rock arrangement example of #1. (d) Unit
+                                                                                                      2 on the ramp between T1 and T2,
+                                                                                                      showcasing columnar rock fragments
+                                                                                                      enclosed in a fine-grained mortar.
+                                                                                                      (e) Columnar rock wall of #1 construction
+                                                                                                      encircling the margin of T1. (f) Tango
+                                                                                                      trench on T1 exposing the thinly buried
+                                                                                                      #2 columnar rock, aligned in N70 E similar
+                                                                                                      to those on the ramp. (g) Southward view
+                                                                                                      of T2, T3, T4 and T5. (h) Overhead photo
+                                                                                                      of T2 and T3, demonstrating the N55 E
+                                                                                                      alignment of #2 columnar rock with a
+                                                                                                      truncation line. (i) GPR survey uncovering
+                                                                                                      #1 step-stone terraces on the east slope.
+                                                                                                      [Colour figure can be viewed at
+                                                                                                      wileyonlinelibrary.com]
+                                                                                                                                                         10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                  7
+
+
+
+extend beyond the hilltop, visible on the east slope and in other              corners and edges caused by exfoliation (Figure 3e). This rock-pillar
+cleared areas (Figure 2i). It has been confirmed that these terraces           structure appears to be an integral part of the overall construction.
+were not recently constructed by local inhabitants for agricultural pur-       We designate the homogeneous mass layer as Unit 3A and the
+poses (Akbar, 2013). Unfortunately, significant portions of the stone          decayed columnar rocks as Unit 3B. The observed weathering profile
+terraces on the hill slopes have not been preserved.                           is intriguing since natural weathering typically occurs due to exposure
+    Beneath Unit 1 lies an older layer of columnar rocks displaying            to air and water, resulting in weathering and decay towards the
+more sophisticated construction techniques. These regularly cut                ground surface rather than the opposite.
+columnar rocks are arranged like bricks in a building, with fine-grained
+fillers or mortar between them (e.g. Figure 2d). This layer, called here
+as Unit 2, remains hidden in plain sight, with exposed parts.                  3.2      |     Results of trenching
+    Exposed areas reveal various elements of Unit 2, including (1) the
+stone-wall ramp between T1 and T2 (Figure 2a,d), (2) an altar-shaped           The trenching excavations were conducted at 12 selected sites
+rock mound situated in the middle of T1, referred to as Masigit (mean-         (Figure 1b,d), each with its designated name. These sites include
+ing ‘a place for praying’) (Figure 2a, b), and (3) diagonally oriented tiles   Tango on T1, Alpha on the west side of T5, Charlie1, Charlie2, Char-
+of columnar rocks spanning T2 and T3 in an approximately N55E                  lie3, Charlie4 and Charlie5 on the East Slope, Delta on the south
+direction (Figure 2h). Notably, on T1, the top of Unit 2 lies just a few       slope, Echo1 near the southern edge of T5, Echo2 on T5 and Fanta
+tens of centimetres beneath the ground surface, as uncovered by the            at T2.
+Tango trench (Figure 2f). The interwoven columnar rocks beneath T1                   The trenching excavations revealed that Unit 2 is a substantial
+                                                                         
+and the ramp connecting T1 and T2 are aligned similarly in the N70 E           construction that extends vertically and laterally along the west and
+direction. This evidence confirms that Unit 2 is a product of human            east flanks. This indicates that the megalithic stones on the ground
+construction, challenging previous notions that it consisted solely of         surface (Unit 1) are built upon the buried and more massive Unit
+natural columnar rocks (e.g. Yondri, 2017).                                    2. Unit 1 appears to be a surface re-arrangement of Unit 2. In the
+    We have mapped a sizeable ancient flank collapse or large land-            Fanta Trench at T2, the alignment of columnar rocks observed on
+slide on the west slope (Figure 1b). A part of its head scarp, Beta2 cliff,    the surface continues underground (Figure 4,A2,A3; Figure SB.2).
+exposes not just Unit 1 and Unit 2 but also an older unit beneath              Although the trench reached a depth of 3.5 m, it did not reach the
+them. The three layers are parallel to the ground surface (Figure 3).          base of Unit 2, which can be seen at Beta2 on the west slope
+Unit 1 has many rock fragments of broken columnar-joint basaltic-              (Figure 3). Unit 2 extends down to the east slope, as revealed by the
+andesitic rocks. Beneath it, Unit 2 is the interwoven columnar-joint           Charlie 1–5 trenches (Figure 4,B1). The layer of columnar rock dips at
+basaltic-andesitic rocks aligned in approximately N70 E direction, like       an angle of about 15 on the east and west slopes, while both flanks
+those exposed on T1. The columnar-joint rocks, unlike in nature, are           incline 30 (Figure 4,B2). The flat surfaces of the east and west hill
+stacked parallel to the layer, not perpendicular, and have been regu-          flanks represent the top of Unit 2, which is buried beneath 1–2 m of
+larly cut about 1–2 m long on average. Furthermore, natural                    soil containing numerous broken basaltic-andesite rock fragments.
+columnar-joint rocks are more homogeneous in size and shape and                      The geometry of Unit 2 is complex. The alignment of columnar
+are tightly interlocked, but Beta2 exposure exhibits columnar rocks            rocks on T1 and the ramp and on the east and west slopes is approxi-
+with different shapes and diameter sizes, and their surfaces do not            mately N70 E, perpendicular to the long axis of the megalithic struc-
+interlock   directly   but   are   separated   by    fine-grained   mortar     ture. On T2 and T3 and down to their slopes, as revealed by the
+(Figure 3b,c). The orthogonal sections of the columnar rocks vary in           Charlie3 and Charlie4 trenches, the alignment of columnar rocks is
+shape, including hexagonal, pentagon, rectangular, trapezoidal and tri-        approximately N55 E. It is worth noting that the stone blocks that
+gonal. There are also distinct thin-flat rocks between the columnar            resemble bricks are not always columnar rocks. For example, the
+blocks, probably added to tighten the structure (Figure 3d). Like expo-        Charlie2 trench on the east slope reveals neatly packed irregular rock
+sures on T1, the mortar between the columns has an average thick-              slabs/fragments aligned in a similar orientation to the columnar rocks
+ness of 5 cm. The columnar rocks are only slightly weathered,                  (Figure 4e).
+showing sharp corner edges.                                                          In Trench Echo2 on T5, a steep wall constructed from interwoven
+    The Beta2 scarp is critical in providing evidence of Unit 2's foun-        columnar rocks is exposed but buried under a soil fill (Figure 4c).
+dation. It reveals a distinct and sudden boundary where Unit 2 meets           According to the GP5 core drilling data described in the next section,
+the underlying rock layer, which has undergone extensive weathering            the thickness of the soil fill is approximately 7 m (Figure 6). The
+and decay. This layer consists of homogeneous, coarse sands with a             columnar rocks in this trench have undergone extensive weathering,
+gravelly texture, possibly originating from a variety of volcanic rock         exhibiting spheroidal weathering similar to those in Unit 3B of the
+materials. It is evident that this layer was exposed to the air for a sig-     Beta2 scarp. Hence, it is considered part of Unit 3. Although Echo2
+nificantly more extended period before being covered by Unit 2. In             was excavated to a depth of 4 m, the base of the columnar rock wall
+contrast to the homogeneous mass, there are embedded pillar-like               was not reached.
+structures that contain columnar rocks. These columnar rocks have                    The Delta trench on the south slope of T5 exposes a 3-m-thick
+experienced advanced spheroidal weathering, resulting in rounded               layer of homogeneous soil fill that buries decayed and unrecognizable
+                                                                                                                                                    10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+8                                                                                                                             NATAWIDJAJA ET AL.
+
+
+
+
+F I G U R E 3 Beta-2 cliff exposures on the west slope. (a) Field photo and interpreted stratigraphy of the subsurface layers. (b) Side view
+highlighting Unit 2 and its distinct boundary with the underlying Unit 3. (c) Plan view of Unit 2, showcasing the alignment of columnar rocks
+enclosed in a fine-grained mortar. (d) Photo displaying planar rock fragments inserted between columnar rocks. (e) Photo featuring a weathered
+vertical pillar composed of highly weathered columnar rocks surrounded by fine-grained materials. [Colour figure can be viewed at
+wileyonlinelibrary.com]
+
+
+
+rocks, characterized by large rounded rock fragments instead of            3.3    |   Results of core drillings
+columnar rocks. These rocks display intensive concentric exfoliations
+indicative of spheroidal weathering. This rock layer, classified as part   Core drillings were conducted at seven selected sites around the hill-
+of #3, is named #3C. On top of this buried decayed rock mass, a            top (Figure 1d) with varying depths. The deepest core drilling, GP5 on
+unique stone artefact resembling a traditional Sundanese dagger            T5, reached 36 m. The drillings penetrated Unit 1, Unit 2and Unit
+called Kujang Stone was discovered (Figure 4d,D1). It was found            3, as well as a deeper section composed of massive basaltic-andesite
+alongside some granular quartz crystals not associated with the            rocks referred to as Unit 4 (Figures 5 and 6). The characteristics of
+weathered rocks beneath it.                                                each rock unit are summarized in Table 1.
+                                                                                                                                                        10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                 9
+
+
+
+
+F I G U R E 4 Results of geo-archaeological trenching. (a) Fanta trench: A1. Columnar rock alignment visible on the surface of T2, A2. Oblique
+view revealing underground continuation of columnar rock alignments (#2), A3. Front profile of #2 columnar rocks exhibiting various sizes and
+shapes, encased in a 5-cm-thick mortar. (b) Charlie1 trench on the east slope: B1. N70E-oriented columnar rock alignment (#2) dipping 15
+towards the slope, B2. Cross-section drawing of Charlie1 trench. (c) Trenching Echo2: C1. East–west cross-section drawing of Echo2 trench, C2.
+Oblique view displaying buried Unit 3 rock wall, C3. Front view of steep wall comprising highly weathered columnar rock alignment. (d) Delta
+trench on the south slope: D1. Drawing of the trench, D2. Photo revealing rounded, highly weathered rock fragments buried by homogeneous
+soil fill. (e) Trenching Charlie2 on the east slope: N70E alignment of non-columnar, blocky rock fragments enclosed in mortar. FC-5,
+Charlie1-3,4,5, EM-4 and ES-1 represent sample locations for radiocarbon analysis. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+
+    Unit 1 represents the topsoil or near-surface soil, typically less    anthropogenic origin. The individual cores of the columnar rocks have
+than 1 m thick, containing fragmented columnar basaltic-andesite          smooth planar surfaces and typically measure between 20 and 30 cm
+rocks. In GP2, GP4 and GP5 boreholes on T5, an ancient soil fill was      in length, representing their typical diameter. At the base of Unit
+discovered, burying Unit 3 rocks beneath the topsoil (refer to            2, there is a relatively thick layer of soil, occasionally containing loose
+Figure 6).                                                                gravelly sands.
+    Unit 2, referred to as #2, is easily identifiable as it can be seen       Unit 3, or #3, shares similarities with Unit 2 but is considerably
+both on the ground surface and in the trenches. It consists of colum-     more weathered, often showing signs of water circulation loss during
+nar basaltic-andesite rocks held together by a sandy-silt mortar of       drilling. The length of andesite cores in Unit 3 can exceed 30 cm,
+10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+   NATAWIDJAJA ET AL.
+
+
+
+
+                                                                                                                                                                                                                                                                                                   trenching Echo1. Figures SC.3–SC.6 provide detailed logging information for other boreholes. [Colour figure can be viewed at wileyonlinelibrary.
+                                                                                                                                                                                                                                                                                                   F I G U R E 5 Borehole logs and interpreted stratigraphy units. (a) GP1 borehole. (b) GP2 borehole. (c) GP4 borehole. (d) Logging of the deep
+
+                                                                                                                                                                                                                                                                                                   com]
+   10
+                                                                                                                                                            10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                    11
+
+
+
+
+F I G U R E 6 Summary of all core logs showing stratigraphic units and their correlations. Descriptions of each rock unit can be found in Table 1.
+It should be noted that Unit 2 does not extend to T5 and Unit 3 is buried by ancient soil fills at T5. During GP4 drilling, a significant water loss of
+32 000 L (32 m3) was observed between 8- and 14-m depth. Evidence of groundwater level was observed through water inflow at a depth of
+17 to 20 m in GP1. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+
+reaching up to 1.3 m in GP7, suggesting the presence of columnar                   Two distinct soil fills were encountered. The first type, referred
+rocks in oblique or vertical positions. However, Unit 3 also contains         to as ancient soil fills, was found in GP5 and GP2 boreholes and
+rounded rock fragments, referred to as #3C, encountered in GP2 or             exposed in the Echo1 and Echo2 trenches. These fills have a thick-
+Echo1. The boundary between weathered columnar rocks and                      ness of up to 7 m and completely bury Unit 3, indicating no gradual
+rounded rocks in Unit 3 remains unclear.                                      in situ weathering (refer to Figures 4c, 5b and SC.8). The sharp con-
+    Unit 4, known as #4, is not exposed on the ground surface and             tact between the soil fills and the top of Unit 3 suggests their human
+consists of massive basaltic-andesite rocks with intensive fractures.         origin rather than natural soil formations. GP5 borehole revealed
+This characteristic was observed in GP1, GP3, GP5, GP6 and GP7                three different types of soils in the fills, further supporting their arti-
+boreholes (see Figure 6 and Figure SC.3–10). The rocks in Unit 4 are          ficial nature. The second type of soil fill was found in T4, T3 and T2
+generally in a fresh state or exhibit minimal weathering. In GP1, the         on the west side of the columnar rock truncated line (see Figure 2h).
+top of Unit 4 is identified by a heavily weathered, 2-m-high massive          The GP1 borehole on T2 revealed that Unit 2 had been almost
+basaltic andesitic rock associated with fluctuations in groundwater           entirely excavated before the soil fills covered the remaining
+levels, evident through water inflow during drilling (refer to Figure 5a).    structures.
+                                                                                                                                                                 10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+12                                                                                                                                       NATAWIDJAJA ET AL.
+
+
+
+T A B L E 1 The classification of rock units based on comprehensive analysis and interpretation of the collected data obtained from boreholes,
+trenches and surface exposures.
+
+  Unit                Descriptions                                                            Thickness (m)      Core loss      Water loss
+  Soil fill           Dark brown soils with many columnar rocks fragments                     3                 —              —
+                       encountered in GP-1
+  Unit 1 (#1)         Surficial megalithic stone and underlying topsoil; dark brown           1–2                —              None
+                        with many grassroots and frequently contains many broken
+                        (columnar) basaltic-andesite rock fragments
+  Unit 2 (#2)         Horizontal columnar rocks intercalated with fine-grained mortar;        2.5–4 m            Frequent       None
+                       identified in the cores as rock fragments bounded by planar
+                       surface and intercalated by mortar or soils; rock-core lengths
+                       are generally 20–30 cm. Not present in GP2, GP4 and GP5
+  #2 soil base        Thick soils often mark the bottom of Unit 2, sometimes                                     —              —
+                        containing loose gravely sands, angular grains, yellowish-
+                        reddish brown colours, quartz, feldspar and some clays
+  Ancient soil fill   Thick soil fills, burying Unit 3 beneath T-5, showing some              Up to 7 m          Frequent       —
+                        layering of brown, reddish-orange and yellowish-brown
+                        soils, some remnant of very weathered andesites and lack of
+                        organic matter. Encountered in GP2 (Echo-1) and GP5 and
+                        in Echo-2 trench
+  Unit 3 (#3)         Weathered columnar and rounded rock fragments (#3B & 3C)                8–22 m             Frequent       Frequent in GP-2, GP-4
+                       showing spheroidal weathering, intercalated with soils or                                                  and GP-5; 32 m3 at GP-4
+                       weathered materials; andesite-rock cores are generally 15–
+                       30 cm long, but occasionally longer, up to 1.3 m. present in
+                       all boreholes.
+  Unit 4 (#4)         Massive basaltic-andesite rocks, generally fresh rocks, and many        Not known          Rare           None
+                       fractures. Encountered in GP1, GP3, GP5, GP and GP7
+
+
+
+
+     Drilling initially took place at GP2 to a depth of 15 m (Figure 5b).          significant cavity or chamber. However, during drilling, no such fea-
+However, further excavation was carried out at this site, referred to as           ture was encountered. To delve deeper into this possibility, we exca-
+the Echo1 trench, reaching approximately 11 m (Figure 5d). This exca-              vated in trench Echo2, situated between GP4 and GP5. Regrettably,
+vation exposed ancient soil deposits that buried extensively weathered             the excavation only reached a depth of 4 m, which proved insufficient
+rocks consisting of basaltic-andesitic rock boulders exhibiting exfolia-           to confirm the existence of the cavity. Instead, we uncovered a steep
+tion due to spheroidal weathering. These boulders were embedded in a               rock wall. It is plausible that the large cavity does not extend beneath
+highly weathered matrix (#3C). This excavation highlighted the chal-               T5 but rather towards the east slope. Further exploration and excava-
+lenge of identifying rock types based solely on core samples. Fresh                tion in this area are necessary to gather more conclusive evidence.
+basaltic-andesite boulders were observed at the bottom of the Echo1                      Boreholes GP7 were also conducted to investigate the presence of
+trench, while weathering gradually intensified towards the surface.                a significant primary chamber beneath the centre of the megalith site.
+Notably, these rounded boulders are typically found in rivers, where               However, drilling was halted at a depth of approximately 21–22 m with-
+they undergo transportation through rolling and abrasion by water                  out discovering any large cavities. Nevertheless, at a depth of 10 m in
+streams. However, the presence of these boulders on top of the hill                GP7, we encountered a lengthy andesitic rock core measuring 1.3 m.
+suggests that they were brought up to this location.                               This core may indicate the presence of a vertical structure, such as a wall
+     The GP4 borehole contains crucial data regarding the suspected                or gate, as supported by the ST profile discussed in the following section.
+presence of large cavities or chambers beneath the surface. During dril-                 Considering our goal of drilling directly into the chamber, we con-
+ling, the penetration rate slowed down at a depth of 5 m. At 7 m, the              templated drilling into the steep wall between T1 and T2. However,
+drill encountered a ‘blank zone’ with no core samples. Subsequently, at            this task requires special permission since drilling without removing or
+8 m, there was a sudden and significant water circulation loss exceeding           disturbing the megalithic structures on the surface at this particular
+20 000 L. After this point, the drilling penetration accelerated and main-         location is impossible.
+tained a high speed. The water loss continued until the total unreturned                 Petrographic analysis of thin sections from the rock core samples
+water circulation reached approximately 32 000 L (32 m3) at a depth of             obtained from the GP1 borehole was conducted to examine their min-
+14 m, prompting us to halt the drilling. The substantial water loss                eralogical compositions and determine their rock types (Figure SJ).
+strongly indicates the presence of a large underground cavity.                     The results indicate that the mineralogical compositions of the rock
+     The GP5 borehole, strategically positioned near the centre of T5,             cores from #1 to #4 units are similar, consisting of basaltic-andesite
+was initially selected to investigate the suspected presence of a                  rocks. The visible minerals under a microscope include feldspars,
+                                                                                                                                                          10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                  13
+
+
+
+pyroxene, chlorite and opaque minerals. Based on visual estimates,             3.4      |   Results of carbon dating analysis
+the mineral constituents comprise 20%–30% feldspar, 15%–20%
+mafic minerals, 5% opaque minerals and 55% groundmass. The feld-               We collected a total of 12 organic soil samples, with six obtained from
+spars present include plagioclase varieties such as bytownite, labra-          borehole core samples and the remaining six from trenches. Out of
+dorite and andesine. Mafic minerals are predominantly represented by           these samples, eight underwent analysis using the AMS radiocarbon
+clinopyroxene, specifically augite and hornblende, with scarce occur-          method at BETA Analytic Lab (www.radiocarbon.com), while the other
+rences of olivine. Opaque minerals are primarily composed of                   four were analysed using the conventional radiocarbon method at the
+magnetite.                                                                     Geochronology Lab in BATAN. To calibrate the carbon dating results,
+    The groundmass consists of microlite plagioclase feldspar, very            we employed the OxCal modelling approach (Ramsey, 2007, 2016),
+fine-grained mafic minerals and a glassy matrix, which have under-             which utilizes Bayesian statistics and considers factors such as the
+gone partial alteration to chlorite and sericite. The rocks show only          material being dated, the calibration curve used (in this case,
+slight alterations, and some display 5%–7% porosity due to the pres-           SHCAL20), and the stratigraphical and archaeological context of the
+ence of vesicular holes. Based on the sizes of microscopically visible         dated object. Additionally, prior information and assumptions about
+vesicular holes, ranging from 0.5 to 2 mm in diameter, these basaltic-         age can be incorporated into the analysis. The detailed results of the
+andesite rocks are believed to be part of shallow lava intrusions. There       carbon dating analysis are presented in Table 2, with further informa-
+are no significant changes in mineralogy from top to bottom, except            tion provided in Figure SD.
+that rocks from Unit 4 exhibit a slight increase in more basic minerals,             The comprehensive OxCal analysis, as illustrated in Figure 7, pro-
+indicating a transition towards more basaltic rocks. Therefore, in the         vides invaluable insights into the chronological sequence of the con-
+core log, the rocks from Unit 4 are referred to as basaltic rocks for          structions at Gunung Padang. According to the analysis, Unit 3 is
+brevity in the descriptions (Figure 5a).                                       estimated to have been constructed during the remarkable timeframe
+
+
+
+T A B L E 2 The results of carbon dating analysis conducted as part of the study. The conventional 14C ages obtained from the samples have
+been calibrated to calendar ages using the OxCal software. The table provides an overview of the calibrated ages for the analysed samples,
+allowing for a more accurate understanding of the chronological timeline associated with the studied materials. For additional information and
+details regarding the carbon dating analysis, please refer to Figure SD.
+
+  Sample                                                                                                 Conventional
+  no.           Lab. no.           Loc.            Depth (cm)   Material        Layer                    14
+                                                                                                           C age            Calendar age (2 σ)
+  FC5           BETA# 423691       Fanta Tr.       130          Organic soil    Soil fill                    480 ± 30 BP    1419–1499 CE, 1601–
+                                                                                                                              1611 CE
+  GP1-295       BETA# 331493       GP-1            295          Organic soil    Soil fill                    560 ± 30 BP    1393–1449 CE
+  CH1-3         —                  Charlie-1 Tr.   55           Organic soil    Unit 1                    3025 ± 30 BP      1383–1341 BCE, 1311–
+                                                                                                                              1107 BCE, 1096–
+                                                                                                                              1079 BCE, 1069–
+                                                                                                                              1056 BCE
+  CH1-4         —                  Charlie-1 Tr.   82           Organic soil    Unit 1                    3630 ± 40 BP      2131–2087 BCE, 2047–
+                                                                                                                              1872 BCE, 1847–
+                                                                                                                              1814 BCE, 1805–
+                                                                                                                              1775 BCE
+  EM4           BETA# 423689       Echo-2 Tr.      150          Organic soil    Bottom of Unit 1          3630 ± 30 BP      2121–2095 BCE, 2040–
+                                                                                                                              1876 BCE, 1843–
+                                                                                                                              1822 BCE, 1795–
+                                                                                                                              1780 BCE
+  CH1-5         —                  Charlie-1 Tr.   121          Organic soil    Unit 2                    7095 ± 60 BP      6061–5793 BCE
+  GP1-500       —                  GP-1            500          Organic soil    Soils beneath Unit 2      6700 ± 70 BP      5713–583 BCE, 5675–
+                                                                                                                              5478 BCE
+  GP2-390       BETA# 331495       GP-2            390          Organic soil    Ancient soil fill         8710 ± 40 BP      7931–7924 BCE, 7816–
+                                                                                                                              7588 BCE
+  ES1           BETA# 423690       Echo-2 Tr.      350          Organic soil    Ancient soil fill         7400 ± 30 BP      6371–6296 BCE, 6269–
+                                                                                                                              6081 BCE
+  GP1-1115      BETA# 331494       GP-1            1115         Organic soil    Unit 3                   13 510 ± 50 BP     14 468–14 086 BCE
+  GP2-750       BETA# 331496       GP-2            750          Organic soil    Unit 3                   22 750 ± 120 BP    25 337–24 941 BCE,
+                                                                                                                              24 772–24 525 BCE
+  GP2-1130      BETA# 331498       GP-2            1130         Organic soil    Unit 3                   19 400 ± 80 BP     21 789–21 577 BCE,
+                                                                                                                              21 487–21 090 BCE
+                                                                                                                                                     10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+14                                                                                                                              NATAWIDJAJA ET AL.
+
+
+
+
+F I G U R E 7 The OxCal analysis of the multi-construction histories of the Gunung Padang pyramid, including soil-fill burials and time gaps
+between constructions. (a) Stratigraphic model and carbon-dating samples associated with each layer. (b) Results of the OxCal modelling, showing
+the estimated dates for each construction phase. (c) Summary of the OxCal analysis results, providing an overview of the chronology of the
+constructions. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+
+
+of 25 000 to 14 000 BCE. Following this period, there was a hiatus        weathered columnar rocks than Unit 1, aligns well with the estimated
+spanning from 14 000 to 7900 BCE before Unit 3 was ultimately bur-        age of 7500–8000 years. The estimated age of Unit 3, at least
+ied between 7900 and 6100 BCE. Remarkably, approximately two              16 000 years old, corresponds to the extensive decay and exfoliations
+millennia later, the construction of Unit 2 took place between 6000       observed in its rocks due to spheroidal weathering.
+and 5500 BCE. Another significant hiatus occurred from 5500 to
+2100 BCE, followed by the construction of Unit 1 between 2000 and
+1100 BCE. Lastly, an intriguing excavation of Unit 2 and subsequent       3.5     |   Results of GPR survey
+soil fills transpired between 1393 and 1499 CE. These refined chrono-
+logical estimates provide a deeper understanding of the temporal          We conducted more than 30 survey lines using the MLF 40-MHz
+development and evolution of the structures at Gunung Padang              antenna, including the long continuous survey through the megalithic
+throughout its extensive history.                                         site's longitudinal axis (Figure 8b, Figure SE.2). The main findings of
+     The estimated ages of the units align with their respective          the survey are presented in Figure 9, where radargram stratifications
+degrees of weathering. Unit 1, characterized by relatively fresh colum-   are classified into distinct GPR facies based on established analysis
+nar basaltic-andesite rock, is estimated to be around 4000–                           
+                                                                          methods (Ekes      & Hickin, 2001; Lanzarone et al., 2019; Lee
+3000 years old, consistent with previous studies (Bintarti, 1982;         et al., 2005). These facies exhibit unique textures, patterns, ampli-
+Tim-Peneliti, 2003). Unit 2, which exhibits significantly more            tudes, frequencies and reflector-geometrical shapes. The boundaries
+                                                                                                                                                           10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                   15
+
+
+
+
+F I G U R E 8 Index map for shallow geophysical surveys. (a) Electrical resistivity tomography (ERT) survey lines with various electrode spacing,
+including 1, 2, 3, 4, 5, 8 and 10 m. The bold blue and green lines indicate the selected survey lines presented in Figure 10. (b) Ground-penetrating
+radar (GPR) survey lines using a 40-MHz MLF antenna, with the selected survey lines for Figure 9. [Colour figure can be viewed at
+wileyonlinelibrary.com]
+
+
+
+
+between facies are often marked by strong negative or positive reflec-         mirrors the topographic profile of the ground surface (Figure 9). In
+tors (Table 3, Figure 9). For further details, refer to Table 3 and            simpler terms, the underground layers appear horizontal beneath the
+Figure SD.                                                                     flat ground surface and inclined beneath sloping surfaces, such as
+       Facies A exhibits strong amplitudes of parallel reflectors extend-      the ramp between T1 and T2. The overall geometry of the subsurface
+ing to a depth of approximately 5 m. Within Facies A, two subfacies            structures along the long axis is depicted in Figure 9b, with the more
+can be identified. Facies A-1, found in the upper 1–2 m, are character-        detailed information provided by short survey lines conducted on
+ized by continuous and parallel solid reflectors. At a depth of 2–5 m,         each terrace, as illustrated in Figure 9a. Additional radargrams can be
+Facies A-2 displays more irregular and wavy reflector patterns. How-           found in the supplementary data (Figure SE.3–8).
+ever, on radargrams, it may be challenging to distinguish between                  The radar facies exhibit a strong correlation with the stratification
+Facies A-1 and A-2. Strong thick negative reflectors often underlie            of rock units (Figure 13, Figures SE2–7 and SH4). Facies A-1 and A-2
+Facies A, serving as its boundary.                                             align well with the layers of Unit 1 and Unit 2. The presence of solid
+       Facies B, spanning from 5 to at least 15 m in depth, exhibits low       and parallel reflectors in Facies A may indicate the horizontal layering
+amplitudes and indicates smooth textures. Within Facies B, there are           of columnar rocks. Facies B corresponds to Unit 3. Facies B-1 is asso-
+two subfacies. Facies B-1 is characterized by a homogenized low-               ciated with the upper portion of Unit 3, which consists of heavily
+amplitude smooth texture, occasionally adorned by slightly stronger,           weathered rocks, as exposed in Beta2. These homogeneously weath-
+discontinuous low-frequency reflectors. As we descend, Facies B-2              ered rocks tend to display smooth textures and low amplitudes on
+becomes dominated by discontinuous wavy bands of higher-                       radargrams. Facies B-2 correlates with the lower part of Unit 3 (#3B,
+amplitude reflectors. The presence of strong positive and negative             #3C) in terms of depth and characteristics. The radargram exhibits a
+reflectors often demarcates the boundary between Facies B-1 and                smooth, low-amplitude background with discontinuous wavy reflec-
+B-2.                                                                           tors, likely representing intensively decayed rock fragments and mor-
+       Facies C is distinguished by its parallel and discontinuous reflector   tars. The presence of strong, thick negative reflectors separating
+pattern, ranging from weak to strong. Within this facies, strong reflec-       Facies A and B is likely to correspond to the thick soils underlying Unit
+tors occasionally denote its upper boundary.                                   2, as observed in the cores (indicated by the pink layer in Figure 6,
+       The primary south–north cross-sectional radargram along the             Figure 13). Starting from a depth of approximately 15–20 m, Facies C
+long axis of the megalith reveals that the subsurface layering generally       correlates with Unit 4, consisting of massive basaltic andesites.
+                                                                                                                                                       10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+16                                                                                                                               NATAWIDJAJA ET AL.
+
+
+
+
+F I G U R E 9 Summary of GPR prospecting. (a) Selected short-line radargrams on terraces displaying detailed textures, patterns, polarities, GPR
+facies analysis and their correlations. (b) The mid-line, a principal radargram of the continuous longitudinal survey line that traverses the stone
+terraces. All radargrams have undergone filtering, convolution and migration processes. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+
+3.6     |       Results of ERT survey                                       varying geometric details. However, high-quality data will exhibit simi-
+                                                                            lar general structural patterns.
+3.6.1       |    2D ERT survey                                                   The ERT images obtained from the 2.5D gridline surveys, employ-
+                                                                            ing 1 and 2-m electrode spacings, generally display consistency and
+The robust 2D ERT survey lines provide extensive and detailed data          can be cross-correlated (Figures SF.14 and SF.15). Furthermore, the
+on the subsurface structures of the megalithic site (Figure 8a,             findings of this study demonstrate that the ERT resistivity structures
+Figures SF.3–SF.5). Similar to radargrams, the inverted-model sections      remain consistent at various resolutions using different electrode
+of the ERT 2D data display parallel layers that replicate the topo-         spacing ranging from 1 to 10 m in both the west–east and south–
+graphic profile of the ground surface (Figure 10). It is important to       north directions (Figure 10, Figures SF.7–SF.13).
+note that an ERT section does not directly reflect the true resistivity          Mt Gunung Padang is surrounded by pyroclastic and epiclastic
+structures of the subsurface, but rather represents the result of an        volcanic rocks with low resistivity values. Consequently, on ERT sur-
+inversion modelling process using the acquired resistivity data (see        veys with wider electrode spacings, Gunung Padang appears as a
+Figure SF.2). Therefore, like other geophysical methods, it does not        high-resistive anomaly (Figures SF.7 and SF.8). However, at finer
+yield a unique, single-solution model. Different initial conditions and     scales, the upper part of this high-resistive anomaly is enveloped by
+variations in resistivity inversion settings result in ERT sections with    significantly lower-resistive layers. The ERT resistivity structures can
+                                                                                                                                                          10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                  17
+
+
+
+T A B L E 3 The results of the radar facies analysis conducted on the radargrams obtained from the GPR survey using the MLF 40-MHz
+antenna. The table provides a classification and description of the various radar facies identified in the radargrams. Each radar facies is
+characterized by distinct textures, patterns and structures, allowing for a better understanding of the subsurface features and their
+interpretations. The table serves as a reference for the interpretation and analysis of the GPR data.
+
+  Radar facies              Description                                                        Example                             Correlation
+  Facies A1                 High amplitude, moderate frequency, strong                                                             Unit 1
+                              continuous horizontal reflectors, sometimes have a
+                              sigmoid pattern
+
+  Facies A2                 High amplitude, low frequency of sigmoid to irregular                                                  Unit 2
+                              reflectors, often underlying by a solid negative
+                              reflector
+
+
+  Facies B1                 The smooth texture of low-amplitude reflectors with                                                    Unit 3A
+                              horizontal to discontinuous dipping reflectors of low                                                Upper part
+                              to medium amplitude
+
+
+
+
+  Facies B2                 Low amplitude, smooth background, interspersed with                                                    Unit 3B, 3C
+                              a discontinued horizontal and dipping reflector of                                                   Lower part
+                              medium–high amplitude. Downward becomes
+                              smoother texture and higher frequency
+
+
+
+
+  Facies C                  High frequency and low to high reflectors with                                                         Unit 4
+                              horizontal but discontinued patterns, sometimes                                                      (massive andesite)
+                              irregular or chaotic
+
+
+
+
+be categorized into four layers, designated as Layer-a, Layer-b,                      The observed correlations between resistivity and the massive
+Layer-c and Layer-d (Figure 10). This layering consistently appears in           andesite body below T3, T4 and T5 reveal striking discrepancies. In
+all ERT sections conducted with 2-m electrode spacing (Figures SF.9              the case of T3, the top of the massive andesite encountered at a
+and SF.10). Moreover, this stratification pattern remains visible even           depth of approximately 20 m in the GP1 borehole corresponds to the
+with electrode spacing of up to 5 m (Figures SF.7 and SF.8).                     bottom part of Layer-c or the upper part of Layer-d in the ERT sec-
+    Starting from the top, Layer-a represents an intermediate resistivity        tions, which are characterized by low resistivity. The absence of the
+layer, which can be further divided into a1 and a2. The a1 layer is thin         high-resistive body beneath T5 is evident in the north–south cross
+and exhibits moderate resistance (mostly depicted in green on the fig-           sections of the ERT, indicating that Layer-c wedges out under T4
+ures). The a2 layer is thicker and displays higher resistance (ranging           (Figure 10a, Figure SF.7).
+from yellow to red). Layer-b (depicted in green) shows significantly                  Interestingly, the expected high-resistivity anomaly of the mas-
+lower resistance compared to (the lower part of) Layer-a. Layer-c is a           sive andesite is not visible in the ERT sections at T5. Instead, a
+high-resistive layer, typically measuring over 700–1000 Ωm. It often            moderate- to low-resistivity zone is observed from 5 m down to
+exhibits a distinct and smooth top surface. Layer-d, located beneath             over 30 m. In contrast, during the GP5 drilling, the massive andesite
+Layer-c, exhibits low resistance.                                                was encountered at a depth of 30 m. We propose that this discrep-
+    In correlation with the rock units, Layer-a roughly corresponds to           ancy is due to a hydrological anomaly where high-pressure artesian
+Unit 1 or Unit 1 and Unit 2 (Figure 13, Figure SH). Layer-b correlates           water from below has fully saturated the highly fractured andesite
+with the upper part of Unit 3 (#3A). The top of Layer-c, the high-               lava. This saturation has transformed the andesite into a conductive
+resistive layer, aligns with the Lower part of Unit 3 (#3B and #3C).             or low-resistivity layer, thus obscuring the anticipated high-
+Notably, the top of the high-resistive layer does not coincide with that         resistivity anomaly in the ERT sections (Park et al., 2016). The water
+of the massive andesite (Unit 4) as typically expected. Various factors,         inflow observed during the GP1 drilling, specifically between 17 and
+especially water content, can cause a decrease in resistivity values             20 m deep within the weathered upper part of the massive andesite
+(e.g. Park et al., 2016).                                                        (Unit 3), supports this hypothesis. Additionally, the presence of a
+                                                                                                                                                       10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+18                                                                                                                                NATAWIDJAJA ET AL.
+
+
+
+
+F I G U R E 1 0 Summary of ERT prospecting. (a) Selected north–south longitudinal section with 2-m spacing electrodes, revealing resistivity-
+layer stratification and the presence of an extremely high resistive anomaly (EHRA) beneath T2. (b) Selected west–east section with 2-m spacing
+electrodes, illustrating the pyramidal shape of layers, the interpretative base of Layers a and b and a low-velocity zone in the centre, potentially
+indicating a soil-filled tunnel. (c) West–east section indicating the presence of neck volcanic intrusions of the massive andesite lava. (d) 2D line
+with 5-m spacing electrodes, providing an overview of the entire longitudinal section of Gunung Padang. (e) Combined profile of NS1, NS2 and
+NS3 survey lines on the east slope, parallel to the areas behind T-1, T-2 and T-3. (f) Examples of 1-m spacing ERT on the east slope, showcasing
+detailed subsurface structures. Complete datasets can be found in Figure SF. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+perennial ‘sacred’ water spring near the base of the megalithic stair-       at a consistent elevation base, approximately 30 m below the top
+way further underscores the unique hydrological conditions present.          (Figure 10b, Figure SF.10). This base is interpreted as a possible con-
+Further investigation is required to fully comprehend this hydrologi-        struction foundation for Units 1, 2 and 3A, clearly visible in all E-W
+cal anomaly.                                                                 ERT sections and gradually rising 5 m southward towards T5
+     The E-W ERT sections, utilizing 2-m-spacing electrode configura-        (Figure SF.10b–o). Moreover, The ERT sections also provide imagery
+tions, reveal the pyramidal shape of Layers a and b with symmetrical         suggestive of tunnels, including a central tunnel within the pyramid
+east and west flanks. These layers appear to be horizontally truncated       structure (Figure 10b). The high-resolution ERT surveys reveal roof-
+                                                                                                                                                   10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                            19
+
+
+
+
+F I G U R E 1 1 The underground chambers revealed by the extremely high-resistive anomaly (EHRA) in the 3D ERT survey. (a,b) 3D ERT
+imaging before topographic correction. (c) 3D ERT imaging after topographic correction. (d–f) Examples of 2D slices showcasing the EHRA and
+the corresponding underground chambers. (g) Index map illustrating the survey line of the 3D ERT survey. [Colour figure can be viewed at
+wileyonlinelibrary.com]
+
+
+wall-and-floor-like shapes (Figure 10e,f). The presence of a long        3.6.2 | 3D ERT survey prospecting underground
+narrow passage is suggested (Figure 10f, Figure SF.13). The use of       chambers
+2-m and 1-m grid spacing in the ERT survey provides further insights
+into the subsurface structure geometry. Beneath the high-resistive       To further investigate the extremely high-resistive anomaly (EHRA)
+layer, notable large vertical structures are observed (Figure 10c,       identified in the 2D ERT sections, a 3D ERT survey was conducted,
+Figure SF.10h–k), interpreted as the neck of a volcanic intrusion that   covering the entire expanse of the megalithic terraces on the hilltop.
+flowed northward along the pre-existing slope of the ancient extinct     The survey employed 112 steel electrodes, strategically arranged in
+volcano. The extruded magma, characterized by its thick and viscous      four parallel lines with a 5-m spacing between both electrodes and
+nature, rapidly solidified, forming a lava tongue. The most intriguing   lines, resulting in a rectangular survey area measuring 15  135 m
+feature is the presence of extremely high resistance anomalies           (Figure 11g). By conducting a 3D survey, we were able to gather data
+(EHRA),   exceeding    20 000 Ωm    and   even    reaching   beyond     with significantly higher density compared to the 2D survey, as the
+100 000 Ωm. The most prominent EHRA is found beneath the ramp           3D approach captured volumetric information rather than just a 2D
+and T2 (Figure 10a, Figures SF.7, SF.8 and SF.11), providing solid       section. Consequently, the acquisition time for the 3D survey was sig-
+evidence of a large cavity or chamber.                                   nificantly longer, spanning the entirety of the day, in contrast to the
+                                                                                                                                                         10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+20                                                                                                                                NATAWIDJAJA ET AL.
+
+
+
+
+F I G U R E 1 2 Seismic tomography (ST) prospecting. (a) Index map illustrating the ST survey lines. (b) Line-1: north–south longitudinal
+section passing through the megalithic site. (c) Line-2: east–west section crossing the centre of the site (crest of T2) and revealing a chamber
+through its low-seismic velocity anomaly (LVA) within the high-seismic velocity zone. (d) Line-3: east–west ST section crossing T5. The top of the
+high-velocity layer marks the boundary of the massive basaltic andesite. Numerous vertical structures are detected in the ST sections. [Colour
+figure can be viewed at wileyonlinelibrary.com]
+
+
+relatively shorter duration of the 2D survey, which only took a few          ranging from approximately 400 to 800 m/s, with occasional higher
+hours for a single run.                                                      velocity zones (1000–2000 m/s). Finally, the bottom layer constituted a
+      The results of the 3D survey provided successful visualization of      high-velocity layer, measuring above 2000 m/s. Regarding lithology
+the suspected large cavities in three dimensions, as depicted in             correlations, the upper layer aligns with Units 1 and 2. The intermediate
+Figure 10. Similar to the 2D imaging, these large cavities or chambers       layer corresponds to Unit 3, and the high-velocity layer at the bottom
+were distinguished by the EHRA but in 3D (Figure 11a–c). The pres-           matches Unit 4, which is the massive andesite lava (Figure 13).
+ence of EHRA, accompanied by surrounding layers of low resistivity,              The ST Line-1 provides a clear N–S cross-sectional view of the
+clearly outlined the chambers. The main chamber beneath the ramp             pyramid mound (Figure 12b, Figure SG.3). It reveals a subtle
+between T1 and T2 was estimated to have dimensions of approxi-               low-velocity anomaly (LVA) situated between the upper and lower
+mately 10  10  15 m (width  height  length). Moreover, EHRA              high-velocity layers. The LVA is bounded by two vertical strips of low-
+was also observed beneath T1 and T5, further supporting the pres-            velocity media, resembling an entrance gate. Line-2, the west–east
+ence of additional chambers (Figure 11c–f).                                  survey line passing through the centre (T2), exhibits a distinct contrast
+                                                                             with an LVA surrounded by high-velocity materials (Figure 12c,
+                                                                             Figure SG.4). It may also indicate possible large tunnels. This LVA cor-
+3.7      |   Results of ST survey                                            responds to a location similar to the prominent EHRA observed in the
+                                                                             2D and 3D ERT surveys. All lines of source–receiver configurations
+We conducted three survey lines (Figure 12a). The initial purpose of         are adequate to capture the objects of interest. Specifically, for Line-2
+the ST survey is to further investigate the large cavities the ERT imaged.   and Line-3, the aperture angles of the configurations are sufficiently
+However, the results also revealed other significant findings. The ST        large, enabling effective imaging of the targeted LVA within the high-
+sections exhibited stratifications that correlated with the ERT and GPR      velocity Layer.
+imaging. The upper layer displayed a low velocity measuring below                The top of the high-velocity layer sharply defines the surface of
+400 m/s. The intermediate layer exhibited a background velocity              the massive andesite, which lies at an approximate depth of 17 m
+                                                                                                                                                         10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                 21
+
+
+
+
+F I G U R E 1 3 Data correlations of borehole log–ground-penetrating radar (GPR)–seismic tomogram (ST)–electric resistivity tomogram (ERT).
+The core log is obtained from GP1. The radargram is taken from Line-05 in close proximity. The ST profile is derived from Line-1 (Figure 12b), and
+the ERT profile is based on Line NS-11 (Figure 10a). Unit 1 and Unit 2 are correlated with Radar Facies A and ST's upper low-seismic layer. Unit
+3 is correlated with Radar Facies B and ST's intermediate-velocity layer. Unit 4 is correlated with Radar Facies C and ST's high-velocity anomaly
+(LVA). The top of ERT's high-resistive anomaly (Layer-c) is aligned with the top of Unit 3's lower part (#3B and #3C) and the top of Facies B-2.
+[Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+
+
+below T1, 20 m below T2 and T3, as revealed by Line-1                       surface observations, trenching, core drillings and geophysical surveys,
+(Figures 12a and 13), and at 30 m depth below T5, as shown by               including GPR, ERT and ST, has not only confirmed but also comple-
+Line-3 (Figure 12c, Figure SG.5). Another prominent feature in ST           mented each other, providing a comprehensive understanding of the
+sections is the presence of multiple vertical structures, including the     site. The multi-layered nature of the constructions aligns well with
+two stripes bounding the LVA in Line-1. These features are not              the profiles of GPR facies, the layering identified in ERT and the strati-
+artefacts resulting from processing, noises or interferences but repre-     fications revealed by ST (Figure 13), strengthening the overall
+sent subsurface features that likely possess vertical boundaries of         interpretation.
+density contrasts. Therefore, these vertical structures may correspond          Specifically, Unit 1 and Unit 2 correspond to GPR Facies A1 and
+to walls or columns of the constructions. Similar vertical features are     A2, reflected in the upper low-velocity layers observed in ST
+also frequently observed in the ERT sections, and upright features are      and roughly correlate with Layers a and b in the ERT sections. The
+visible as the rock pillars on the Beta2 scarp and the steep rock wall in   presence of Unit 3 is strongly supported by GPR Facies B, the inter-
+the Echo2 trench.                                                           mediate seismic velocity layer and Layers b and c in ERT. Remarkably,
+                                                                            the top of Unit 3B, located at a depth of approximately 9–11 m,
+                                                                            closely aligns with the top of GPR Facies B2 and the top of the high-
+3.8    |   Integrating data                                                 resistivity Layer c in ERT. Unit 4, composed of massive basaltic andes-
+                                                                            ite, strongly correlates with the high-seismic velocity layer observed
+This study demonstrates the effective utilization and integration of        in ST and the GPR Facies C. The top of the high-seismic velocity layer
+multiple techniques to explore the complex, multi-layered and exten-        accurately reflects the top of Unit 4, further validating its presence
+sive ancient constructions at Gunung Padang. The combination of             and characteristics.
+                                                                                                                                                     10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+22                                                                                                                            NATAWIDJAJA ET AL.
+
+
+
+
+F I G U R E 1 4 Simplified reconstruction of Gunung Padang. Unit 1 represents the surficial stone terraces constructed between 2000 and
+1100 BCE or more recently. Unit 2 (highlighted in yellow) corresponds to a buried pyramidal-shaped layer composed of columnar rocks and was
+built around 6000–5500 BCE. Unit 3 (shown in green) dates back to 25 000–14 000 BCE. Unit 4 represents the sculpted massive basaltic-
+andesite lava. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+
+
+3.9     |   Uncertainty of geophysical measurements                            The GPR survey in this study employed a simplified approach by
+                                                                           assuming a single average electromagnetic (EM) velocity for all sub-
+The geophysical measurements conducted at Gunung Padang pro-               surface layers due to the limitations of the software. This assumption
+vide valuable insights into the subsurface structures and ancient con-     introduces uncertainties in accurately characterizing and distinguish-
+structions. However, it is crucial to acknowledge the inherent             ing subsurface features and boundaries based solely on the GPR data.
+uncertainties associated with the measurements. Complex 3D fea-            Using a single average EM velocity also limits the resolution and accu-
+tures, groundwater levels, moisture content and equipment limita-          racy of the imaging results. More sophisticated approaches are
+tions can     introduce uncertainties    in   interpreting   geophysical   required to capture the complexity of subsurface structures.
+subsurface structures and predicting their depths. For example, this           The ERT method is also subject to uncertainties, particularly in
+study demonstrates that the geophysical layers do not necessarily          interpreting resistivity data. The relationship between resistivity
+align with the lithological stratigraphy as depicted from borehole data.   and subsurface properties is complex, influenced by various factors
+The discrepancies highlight the need for caution when interpreting         as described above. Assumptions made during inversion algorithms
+the results and emphasize the importance of considering multiple fac-      and the homogeneity of subsurface properties can also introduce
+tors and approaches in the analysis.                                       uncertainties in accurately characterizing subsurface structures
+      Additionally, 2D acquisition methods, compared to 3D, can intro-     based on resistivity values. As observed in this study, the absence
+duce limitations in interpreting geophysical data. 2D surveys provide      of a high-resistive layer of the massive basaltic andesite body
+valuable insights into the subsurface but represent a simplified repre-    beneath certain areas exemplifies the challenges in accurately inter-
+sentation of the complex 3D subsurface structures, leading to ambigu-      preting resistivity data.
+ities in the characterization of subsurface features. The adoption of          Although powerful for subsurface imaging, the ST method is also
+3D survey and 2.5 D (2D on gridded lines) surveys, as conducted in         associated with uncertainties. The inherent complexity of the subsur-
+this study, offers a better representation of the subsurface, reducing     face, such as variations in lithology, fluid content and fractures, can
+some of the uncertainties associated with 2D acquisition.                  introduce challenges in accurately estimating seismic velocities and
+                                                                                                                                                              10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                       23
+
+
+
+imaging subsurface structures. Factors such as sensor coverage, fre-           Holocene or the beginning of the Neolithic, with the advent of
+quency and quality of seismic waves and assumptions made in inver-             agriculture approximately 11 000 years ago (Harari, 2014). However,
+sion algorithms further contribute to uncertainties in the derived             evidence from Gunung Padang and other sites, such as Gobekli Tepe,
+velocity models.                                                               suggests that advanced construction practices were already present
+      As demonstrated in this study, integrating multiple geophysical          when agriculture had, perhaps, not yet been invented.
+methods in a comprehensive survey helps mitigate the uncertainties                 The builders of Unit 3 and Unit 2 at Gunung Padang must have
+associated with individual techniques. By comparing and confirming             possessed remarkable masonry capabilities, which do not align with
+the results from different methods, the accuracy and certainty of the          the traditional hunter-gatherer cultures. The burial of these structures
+interpretations are enhanced. This comprehensive approach and inte-            around 9000 years ago adds further intrigue for reasons not fully
+gration of geophysical methods contribute to a more robust under-              understood. Given the long and continuous occupation of Gunung
+standing of the subsurface structures, minimizing uncertainties and            Padang, it is reasonable to speculate that this site held significant
+providing a reliable basis for further analysis. Finally, it is important to   importance, attracting ancient people to repeatedly occupy and
+note that the borehole core logs and trenching data are superior for           modify it.
+calibrating the subsurface geophysical interpretation, adding further              To further advance our knowledge of Gunung Padang, it is essen-
+confidence to the findings.                                                    tial for future research to undertake comprehensive and systematic
+                                                                               excavations that delve into the characteristics of Unit 2, Unit 3 and
+                                                                               Unit 4, as well as their cultural significance. Employing advanced geo-
+4     |       C O N CL U S I O N                                               physical imaging techniques and directional drilling can prove instru-
+                                                                               mental in exploring underground structures, including potential
+4.1 | Gunung Padang is a multi-layered prehistoric                             chambers. In the event of encountering a chamber during drilling
+pyramid                                                                        operations, the use of downhole cameras can provide valuable visual
+                                                                               documentation. Furthermore, conducting more extensive radiometric
+This study strongly suggests that Gunung Padang is not a natural hill          dating studies will contribute to obtaining precise age estimates for
+but a pyramid-like construction. The pyramid's core consists of metic-         the constructions, enhancing our understanding of their historical
+ulously sculpted massive andesite lava (Unit 4), enveloped by layers of        timelines.
+rock constructions (Unit 3, Unit 2 and Unit 1). The carbon dating anal-            Gunung Padang stands as a remarkable testament, potentially
+ysis further supports the multi-layer construction's long history, span-       being the oldest pyramid in the world. Further investigation and inter-
+ning successive periods.                                                       disciplinary research will uncover its hidden secrets and shed more
+      The oldest construction, Unit 4, likely originated as a natural lava     light on the ancient civilizations that thrived in this enigmatic site.
+hill before being sculpted and then architecturally enveloped during
+the last glacial period between 25 000 and 14 000 BCE. (Figure 14).            AC KNOW LEDG EME NT S
+Afterward, Gunung Padang was abandoned by the first builders for               We sincerely thank the individuals and organizations who have made
+thousands of years, leading to significant weathering. Around 7900–            this study possible. Special thanks go to Mr. Andi Arief for his unwa-
+6100 BCE, Unit 3 was deliberately buried with substantial soil fills.          vering support and encouragement throughout the research. We are
+Approximately a millennium later, between 6000 and 5500 BCE, a                 also grateful to General Army Dr. Soesilo Bambang Yudhoyono,
+subsequent builder arrived at Gunung Padang and constructed Unit               former President of Indonesia (2004–2014), as well as Gen. Gatot
+2. Lastly, the final builder arrived between 2000 and 1100 BCE, con-           Nurmantyo, Admiral Dr. Ade Sopandi, Mr. Dedy Mizwar (former Vice
+structing Unit 1.                                                              Governor of West Java) and Prof M. Nuh (former Ministry of Educa-
+      It is intriguing to note that during the construction of Unit 1, Unit    tion and Culture) for their valuable supports. We extend our apprecia-
+2 likely remained relatively intact and well preserved. However, in a          tion to GDA (Geosains Delta Andalan) Consulting, the Rock Fluids
+peculiar turn of events, Unit 2 was subsequently buried, possibly to           Imaging Lab, the drone-photography team of the University of
+conceal its true identity for preservation purposes. As a result, Unit         Pasundan, Aero-Geosurvey and Zona-Spasial Co. for their assistance
+2 now lies concealed beneath Unit 1, which comprises simple superfi-           and support throughout the project. Our heartfelt thanks also go to
+cial stone terraces or punden berundak representing the latest visible         the dedicated field crews and local residents whose enthusiasm and
+manifestation of Gunung Padang.                                                cooperation were instrumental in the success of this study. We
+                                                                               acknowledge Mr Graham Hancock for kindly proofreading the manu-
+                                                                               script and his team for shedding light on Gunung Padang in Netflix's
+4.2       |    Concluding remarks and further studies                          Ancient Apocalypse. We are also indebted to Mr Peter Lanzarone for
+                                                                               his thorough review and valuable suggestions that significantly
+This study sheds light on advanced masonry skills dating back to the           improved the manuscript. Additionally, we would like to thank all our
+last glacial period. This finding challenges the conventional belief that      friends and countless others who have provided support and assis-
+human civilization and the development of advanced construction                tance throughout this research. This research received no specific
+techniques emerged only during the warm period of the early                    grant from government, public, commercial or not-for-profit funding
+                                                                                                                                                                   10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+24                                                                                                                                        NATAWIDJAJA ET AL.
+
+
+
+agencies. Finally, the Competitive RISPRO Program of the Indonesia                   archaeological site of Nan Madol (Pohnpei, Micronesia) identified
+Endowment Funds for Education (LPDP) of the Ministry of Finance,                     using 230Th/U coral dating and geochemical sourcing of megalithic
+                                                                                     architectural stone. Quaternary Research, 86(3), 295–303. https://doi.
+granted to Dr. Bagus E. B. Nurhandoko for his research in developing
+                                                                                     org/10.1016/j.yqres.2016.08.002
+the subsurface imaging equipments, supported the publication.                    McCoy, M. D., & Athens, J. S. (2012). Sourcing the megalithic stones of
+                                                                                     Nan Madol: An XRF study of architectural basalt stone from Pohnpei,
+CONF LICT OF IN TE RE ST ST AT E MENT                                                Federated States of Micronesia. Journal of Pacific Archeology, 3(1),
+                                                                                     105–114.
+The authors declare no conflict of interest.
+                                                                                 Natawidjaja, D. H. (2015). Piramid Gunung Padang: Bukti peradaban
+                                                                                     Sundaland dari Zaman Es? (Gunung Padang pyramid: Evidence of
+DATA AVAI LAB ILITY S TATEMENT                                                       Sundaland civilization in the Ice Age), Mitos dan Bencana di Nusantara
+The data that supports the findings of this study are available in the               (Myth of Dissasters in Nusantara): Yogyakarta. A paper was presented
+                                                                                     in the Meeting of “Borobudur Writer and Cultural Festival”,
+supplementary material of this article.
+                                                                                     17 November 2015, Ombak Dua (www.penerbitombak.com).
+                                                                                 Natawidjaja, D. H., Bachtiar, A., Endar, B., Daryono, M., & Subandrio, A.
+ORCID                                                                                (2018). Evidence of large pyramid-like structure predating 10,000 year
+Danny Hilman Natawidjaja        https://orcid.org/0000-0002-3870-                    BP at Mount Padang, West Java, Indonesia: Applications of geological-
+9184                                                                                 geophysical methods to explore buried man-made structures. In Pro-
+                                                                                     ceedings American Geophysical Union Fall Meeting, Washington DC,
+                                                                                     2018, Proceeding AGU EOS Transaction. https://www.essoar.org/
+RE FE R ENC E S                                                                      doi/abs/10.1002/essoar.10500119.1
+Akbar, A. (2013). Situs Gunung Padang: Misteri dan Arkeologi (Gunung             Natawidjaja, D. H., Bachtiar, A., Endar, B., & Subandrio, A. (2016). Archeo-
+    Padang site: Mystery and archeology). Change Publication. 266 p.                 geological and geophysical studies of the Gunung Padang megalith in
+Bingham, H. (1930). Machu Pichu, a citadel of Incas. Yale University Press.          Cianjur, Indonesia implies lost advanced civilizations in Sundaland
+    244 p.                                                                           before Holocene. GEOSEA XIV Congress and 45th IAGI Annual Con-
+Bintarti, D. D. (1982). Punden berundak di Gunung Padang. Berkala                    vention 2016: Bandung, IAGI.
+    Arkeologi, Pusat Penelitian Arkeologi Nasional.                              Natawidjaja, D. H., Bradley, K., Daryono, M. R., Aribowo, S., & Herrin, J. S.
+Bronk Ramsey, C. (2016). Development of the radiocarbon calibration pro-             (2017). Late Quaternary eruption of the Ranau caldera and new geo-
+    gram. Radiocarbon, 43(2A), 355–363. https://doi.org/10.1017/                     logical slip rates of the Sumatran fault zone in southern Sumatra,
+    S0033822200038212                                                                Indonesia. Geoscience Letters, 4(21), 21. https://doi.org/10.1186/
+
+Ekes,  C., & Hickin, E. J. (2001). Ground penetrating radar facies of the            s40562-017-0087-2
+    paraglacial Cheekye fan, southwestern British Columbia, Canada. Sedi-        Nurhandoko, B. E., & Ashida, Y. (1998). Fresnel zone wavepath tomogra-
+    mentary Geology, 143(3), 199–217. https://doi.org/10.1016/S0037-                 phy – Theory. In Proceedings The 3rd International Symposium on
+    0738(01)00059-8                                                                  Recent Advances in Exploration Geophysics (RAEG 1998), Kyoto,
+Forte, E., & Pipan, M. (2008). Integrated seismic tomography and ground-             Japan.
+    penetrating radar (GPR) for the high-resolution study of burial mounds       Nurhandoko, B. E. B. (2000). Fresnel Zone Seismic Tomography [Dr-Eng
+    (tumuli). Journal of Archaeological Science, 35(9), 2614–2623. https://          Disertation]: Kyoto University.
+    doi.org/10.1016/j.jas.2008.04.024                                            Nurhandoko, B. E. B. (2016). Imaging subsurface fracture and void using
+Harari, Y. N. (2014). Sapiens: A brief history of humankind (p. 498). London,        wide-band inversion of Fresnel interpolated Wavepath seismic tomog-
+    Vintage Book.                                                                    raphy. Indonesian Journal of Physics, 20(3), 71–74.
+Irsyam, M., Cummins, P. R., Asrurifak, M., Faizal, L., Natawidjaja, D. H.,       Nurhandoko, B. E. B., Ambia, F., Triyoso, K., Choliq, M. T., Budi, M. L.,
+    Widiyantoro, S., Meilano, I., Triyoso, W., Rudiyanto, A., Hidayati, S.,          Suhendi, A., & Abdianto, W. E. (2016). Marine seismic tomography for
+    Ridwan, M., Hanifa, N. R., & Syahbana, A. J. (2020). Development of              detecting fracture and void of subsurface seabed: A theoretical frame-
+    the 2017 national seismic hazard maps of Indonesia. Earthquake Spec-             work development and application of wide-band Fresnel tomography.
+    tra, 36, 112–136. https://doi.org/10.1177/8755293020951206                       Indonesian Journal of Physics, 19(4), 103–110. https://doi.org/10.
+Kim, B.-M. (1982). Megalithic cultures in Asia. Hanyang University Press.            5614/itb.ijp.2008.19.4.2
+    204 p.                                                                       Nurhandoko, B. E. B., Matsuoka, T., Watanabe, T., & Ashida, Y. (1999).
+Krom, N. J. (1915). Rapporten van den Oudheidkundingen dients in                     Land seismic refraction tomography using homogeneous velocity as
+    Nederlandsch 1914.                                                               initial model. SEG Technical Program Expanded Abstracts 1999, Soci-
+Lanzarone, P., Seidel, M., Brandt, S., Garrison, E., & Fisher, E. C. (2019).         ety of Exploration Geophysicists, p. 1481–1484.
+    Ground-penetrating radar and electrical resistivity tomography reveal        Papadopoulos, N. G., Yi, M.-J., Kim, J.-H., Tsourlos, P., & Tsokas, G. N.
+    a deep stratigraphic sequence at Mochena Borago Rockshelter, south-              (2010). Geophysical investigation of tumuli by means of surface 3D
+    western Ethiopia. Journal of Archaeological Science: Reports, 26,                electrical resistivity tomography. Journal of Applied Geophysics, 70(3),
+    101915. https://doi.org/10.1016/j.jasrep.2019.101915                             192–205. https://doi.org/10.1016/j.jappgeo.2009.12.001
+Lee, K., Zeng, X., McMechan, G. A., Howell, C. D. Jr., Bhattacharya, J. P.,      Park, S., Shin, S., Lee, D. K., Kim, C. R., & Son, J.-S. (2016). Relationship
+    Marcy, F., & Olariu, C. (2005). A ground-penetrating radar survey of a           between electrical resistivity and physical properties of rocks. Near
+    delta-front reservoir analog in the Wall Creek member, frontier forma-           Surface Geoscience 2016 - First Conference on Geophysics for MIn-
+    tion, Wyoming. AAPG Bulletin, 89(9), 1139–1155. https://doi.org/10.              eral Exploration and Mining, Volume 2016, European Association of
+    1306/042705040106                                                                Geoscientist & Engineer, p. 1–5.
+Marliyani, G. I., Arrowsmith, J. R., & Whipple, K. X. (2016). Characterization   Purwanto, H., Tirtasari, C. P., & Sumerata, I. W. (2017). Candi Kethek: Kar-
+    of slow slip rate faults in humid areas: Cimandiri fault zone, Indonesia.        akter dan Latar Belakang Agama (in Indonesian). Forum Arkeologi,
+    Journal of Geophysical Research - Earth Surface, 121(12), 2287–2308.             30(2), 101–112. https://doi.org/10.24832/fa.v30i2.226
+    https://doi.org/10.1002/2016JF003846                                         Ramadina, S. P. (2010). Analisis perupaan situs megalitik Gunung Padang
+McCoy, M. D., Alderson, H. A., Hemi, R., Cheng, H., & Edwards, R. L.                 di Cianjur, Jawa Barat. J.Vis.Art & des. ITB, 4(1), 51–66. https://doi.org/
+    (2016). Earliest direct evidence of monument building at the                     10.5614/itbj.vad.2013.4.1.7
+                                                                                                                                                                  10990763, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/arp.1912 by Cochrane France, Wiley Online Library on [17/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+NATAWIDJAJA ET AL.                                                                                                                                          25
+
+
+
+Ramsey, B. (2007). OxCal program. https://c14.arch.ox.ac.uk/oxcal.html,           Tsokas, G. N., Giannopoulos, A., Tsourlos, P., Vargemezis, G., Tealby, J. M.,
+     Radiocarbon Accelerator Unit, University of Oxford.                              Sarris, A., Papazachos, C. B., & Savopoulou, T. (1994). A large scale
+Sarris, A., Dunn, R. K., Rife, J. L., Papadopoulos, N., Kokkinou, E., &               geophysical survey in the archaeological site of Europos (northern
+     Mundigler, C. (2007). Geological and geophysical investigations in the           Greece). Journal of Applied Geophysics, 32(1), 85–98. https://doi.org/
+     Roman cemetery at Kenchreai (Korinthia), Greece. Archaeological Pro-             10.1016/0926-9851(94)90011-6
+     spection, 14(1), 1–23. https://doi.org/10.1002/arp.280                       Vasco, D. W., Peterson, J. E., & Majer, E. L. (1995). Beyond ray tomogra-
+Sathiamurthy, E., & Voris, H. K. (2006). Maps of Holocene sea level trans-            phy: Wavepaths and Fresnel volumes. Geophysics, 60(6), 1790–1804.
+     gression and submerged lakes on the Sunda shelf. The Natural History             https://doi.org/10.1190/1.1443912
+     Journal of Chulongkorn University, Supplement 2, 1–44.                       Veerbek, R. D. M. (1896). Geologische beschrijving van Java en Madoera.
+Shi, Z., Yu, T., & Shi, M. (2020). Investigate the layout and age of a large-         Deel I en II.
+     scale mausoleum in Hangzhou, China using combined geophysical                Voris, H. K. (2000). Maps of Pleistocene Sea levels in Southeast Asia:
+     technologies and archaeological documents. Archaeological Prospec-               Shorelines, river systems, and time durations. Journal of Biogeography,
+     tion, 27(4), 301–313. https://doi.org/10.1002/arp.1774                           27, 1153–1167. https://doi.org/10.1046/j.1365-2699.2000.00489.x
+Soeria-Atmadja, R., Maury, R. C., Bellon, H., Pringgoprawiro, H.,                 Yondri, L. (2017). Situs Gunung Padang: Kebudayaan, manusia, dan lingkun-
+     Polve, M., & Priadi, B. (1994). Tertiary magmatic belts in Java. Journal         gan (Gunung Padang Site: Culture, human, and environment) (p. 337). PT
+     of Southeast Asian Earth Sciences, 9(1), 13–27. https://doi.org/10.              Semiotika.
+     1016/0743-9547(94)90062-0
+Sudjatmiko 1972). Peta Geologi Lembar Cianjur, Jawa Barat (Geological
+     Map of the Cianjur Quadrangle, West Java), 1:100 000 scale. Pusat            SUPPORTING INF ORMATION
+     Penelitian dan Pengembangan Geologi, ESDM (the Ministry of Energy            Additional supporting information can be found online in the Support-
+     and Natural Resources).                                                      ing Information section at the end of this article.
+Sukendar, H. (1985). Tinggalan tradisi megalitik di daerah Cianjur. Laporan
+     Pusat Penelitian Arkeologi Nasional.
+Takashi, S. (2014). The monumental origin of Borobudur - a study for
+                                                                                      How to cite this article: Natawidjaja, D. H., Bachtiar, A.,
+     buildings in the relief panels. Journal of Southeast Asian Archeology, 34,
+     31–46.                                                                           Nurhandoko, B. E. B., Akbar, A., Purajatnika, P., Daryono,
+Tejero-Andrade, A., Argote-Espino, D. L., Cifuentes-Nava, G., Hernández-              M. R., Wardhana, D. D., Subandriyo, A. S., Krisyunianto, A.,
+     Quintero, E., Chávez, R. E., & García-Serrano, A. (2018). ‘Illuminating’         Tagyuddin, Ontowiryo, B., & Maulana, Y. (2023).
+     the interior of Kukulkan's pyramid, Chichén Itzá, Mexico, by means of
+                                                                                      Geo-archaeological prospecting of Gunung Padang buried
+     a non-conventional ERT geophysical survey. Journal of Archaeological
+     Science, 90, 1–11. https://doi.org/10.1016/j.jas.2017.12.006
+                                                                                      prehistoric pyramid in West Java, Indonesia. Archaeological
+Tim-Peneliti (2003). Laporan hasil penelitian arkeologi di Situs Megalitik            Prospection, 1–25. https://doi.org/10.1002/arp.1912
+     Gunung Padang. Balai Arkeologi Bandung.
+

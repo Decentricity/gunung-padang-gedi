@@ -1,0 +1,8 @@
+{
+  "name": "gunung-padang-gedi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reproducible public evidence explorer for Gunung Padang",
+  "scripts": {"test": "node tests/viewer.cjs"},
+  "devDependencies": {"playwright": "1.62.1"}
+}
