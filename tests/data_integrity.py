@@ -26,6 +26,15 @@ assert provenance['gedi_csv_sha256']==hashlib.sha256((root/'footprints.csv').rea
 assert len({r['date'] for r in s})==4
 assert all(r['quality_flag']==1 and r['degrade_flag']==0 for r in s)
 assert t['vertical_datum']=='EGM2008'
+assert all(abs(r['elev_lowestmode_ellipsoid_m']-r['geoid_undulation_m']-r['ground_egm2008_m'])<.000002 for r in s)
+assert provenance['geoid_source']['local_crop_sha256']==hashlib.sha256((data/'egm2008-local.tif').read_bytes()).hexdigest()
+with rasterio.open(data/'egm2008-local.tif') as geoid:
+    arr=geoid.read(1)
+    for shot in s:
+        col,row=(~geoid.transform)*(shot['longitude'],shot['latitude']);col-=.5;row-=.5
+        c,r=int(np.floor(col)),int(np.floor(row));tx,ty=col-c,row-r
+        n=(1-ty)*((1-tx)*arr[r,c]+tx*arr[r,c+1])+ty*((1-tx)*arr[r+1,c]+tx*arr[r+1,c+1])
+        assert abs(float(n)-shot['geoid_undulation_m'])<.000001
 with rasterio.open(data/'copernicus-surface-crop.tif') as crop:
     a=crop.read(1)
     assert a.shape==(t['rows'],t['columns'])==(66,66)
@@ -42,4 +51,4 @@ with rasterio.open(data/'copernicus-surface-crop.tif') as crop:
                 original[mask]=np.array([v[0] for v in src.sample([coords[i] for i in np.flatnonzero(mask)])])
         np.testing.assert_array_equal(a.ravel(),original)
 assert hashlib.sha256((root/'sources/paper-2023-retracted.pdf').read_bytes()).hexdigest()=='d6fcfd71deb9f3706180d026c863a6038154a5e9f8b8249c7c92398461d77751'
-print('PASS: 4,356 native posts match source pixels; 117 exact shot IDs retained; vertical datums separated; provenance hashes verified.' if len(sys.argv)>1 else 'PASS: crop, shots, datum declarations, and archived-paper integrity.')
+print('PASS: 4,356 native posts match source pixels; 117 exact shot IDs retained; EGM2008 conversion and provenance hashes verified.' if len(sys.argv)>1 else 'PASS: crop, shots, EGM2008 conversion, and archived-paper integrity.')
